@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mayurisamanta" /> </p>
 
+<img  style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+
 - 🔭 I’m currently a student at Masai **School, Bengaluru**
 
 - 🌱 I’m currently learning **Java**
@@ -20,9 +22,9 @@
 - 👯 **Love to connect with people and Know their stories**
 <br>
 
-<img  style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mayuri-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
 <a href="https://fb.com/mayurisamanta10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
@@ -33,6 +35,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"height="50" width="60"  style="margin-right: 10px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" width="60" style="margin-right: 10px;"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50" width="60" style="margin-right: 10px;"/> </a> </p>
+
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurisamanta&show_icons=true&locale=en&layout=compact" alt="mayurisamanta" /></p>
 
