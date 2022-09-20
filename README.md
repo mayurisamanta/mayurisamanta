@@ -41,9 +41,13 @@
 # 📊 GitHub Stats:
 <p align="left">
 
-![](https://github-readme-stats.vercel.app/api?username=mayurisamanta&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayurisamanta&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurisamanta&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayurisamanta&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurisamanta&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurisamanta&theme=default" align="center" />
+</p>
+
+<!-- [![Mayuri's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayurisamanta&theme=default)](https://github.com/mayurisamanta/github-readme-activity-graph) -->
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
