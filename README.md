@@ -44,7 +44,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayurisamanta&show_icons=true&theme=default&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurisamanta&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurisamanta&theme=default&count-private=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurisamanta&theme=default&count_private=true" align="center" />
 </p>
 
 <!-- [![Mayuri's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayurisamanta&theme=default)](https://github.com/mayurisamanta/github-readme-activity-graph) -->
