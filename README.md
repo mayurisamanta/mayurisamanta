@@ -12,10 +12,10 @@
 - 👯 I’m looking to collaborate on **Interesting projects using core java**
 
  <!-- Portfolio -->
-- 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/folders/1znQl-Cs_oianWXsvC2bJtKlZpnpqHZqV?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/folders/1znQl-Cs_oianWXsvC2bJtKlZpnpqHZqV?usp=sharing) &nbsp; 
 
 - 💬 Ask me about **coding and art because that's what fascinates me**
 
