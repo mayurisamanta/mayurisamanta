@@ -11,9 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Interesting projects using core java**
 
-- 👨‍💻 All of my projects are available at [https://mayurisamanta.github.io/](https://mayurisamanta.github.io/)
+ <!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **coding and art because that's what fascinate me**
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/folders/1znQl-Cs_oianWXsvC2bJtKlZpnpqHZqV?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 💬 Ask me about **coding and art because that's what fascinates me**
 
 - 📫 How to reach me **samantamayuri@gmail.com**
 
@@ -26,14 +30,14 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/mayuri-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
-<a href="https://twitter.com/mayuri_samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayuri_samanta" height="50" width="60" style="margin-right: 10px;" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/mayurisamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="50" width="60" style="margin-right: 10px;"  /></a>
-<a href="https://www.hackerrank.com/samantamayuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="50" width="60" style="margin-right: 10px;"/></a>
-<a href="https://www.leetcode.com/mayurisamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
-<a href="https://www.youtube.com/@mayurispeaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayurispeaks" height="50" width="60" style="margin-right: 10px;"/></a>    
-<a href="https://fb.com/mayurisamanta10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
-<a href="https://instagram.com/mayurisamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
+<a href="https://twitter.com/mayuri_samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayuri_samanta" height="50" width="60" style="margin-right: 10px;" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dev_mriganka" height="50" width="60" style="margin-right: 10px;"  /></a>
+<a href="https://www.hackerrank.com/samantamayuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.leetcode.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.youtube.com/@mayurispeaks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayurispeaks" height="50" width="60" style="margin-right: 10px;"/></a>    
+<a href="https://fb.com/mayurisamanta10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://instagram.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
 </p>
 
 # 💻 Tech Stack:
