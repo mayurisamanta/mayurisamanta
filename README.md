@@ -53,7 +53,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurisamanta&theme=default&count_private=true" align="center" />
 </p>
 
- [![Mayuri's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayurisamanta&theme=default)](https://github.com/mayurisamanta/github-readme-activity-graph) 
+<div align="center"  >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayurisamanta&column=7&theme=default"" />
+  </a>
+<div>
+
+<br>
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
