@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **spring**
 
-- 👯 I’m looking to collaborate on **Interesting projects using core java**
+- 👯 I’m looking to collaborate on **Interesting projects using springboot**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
@@ -43,14 +43,14 @@
 <a href="https://www.hackerrank.com/samantamayuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samantamayuri" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://www.leetcode.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://www.youtube.com/@mayurispeaks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayurispeaks" height="50" width="60" style="margin-right: 10px;"/></a>    
-<a href="https://www.youtube.com/@mayurispeaks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="mayurispeaks" height="50" width="60" style="margin-right: 10px;"/></a>        
-<a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="mayuriSamanta" height="50" width="60" style="margin-right: 10px;"/></a>        
+<a href="https://fb.com/mayurisamanta10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
 <a href="https://instagram.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
 </p>
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
