@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **spring Framwork**
 
 - 👯 I’m looking to collaborate on **Interesting projects using springboot**
 
