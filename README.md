@@ -1,23 +1,23 @@
-<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Mayuri Samanta</h1>
+<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="smile Emoji">, I'm Mayuri Samanta</h1>
     <h3 align="center">An Aspiring Java developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mayurisamanta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="mayurisamanta-views" /> </p>
 
-<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
+<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding girl gif">
 
 - 🔭 I’m currently a student at Masai **School, Bengaluru**
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **Spring Framework**
 
-- 👯 I’m looking to collaborate on **Interesting projects using springboot**
+- 👯 I’m looking to collaborate on **Interesting projects using Spring Framework**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://github.com/mayurisamanta/Resume/blob/main/Mayuri-Samanta-Resume.pdf) &nbsp; 
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1nPPi0dv9CtOF52kNHB4yTodO2oHTyEzU/view?usp=sharing) &nbsp; 
 
-- 💬 Ask me about **coding and art because that's what fascinates me**
+- 💬 Ask me about **Coding and Art because that's what fascinates me**
 
 - 📫 How to reach me **samantamayuri@gmail.com**
 
@@ -50,7 +50,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <p align="left">
