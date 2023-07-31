@@ -141,6 +141,7 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 <img style="width: 100%;" src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
