@@ -57,6 +57,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
 </a> 
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"  style="margin-right: 10px;"/>
+</a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/>
 </a> 
@@ -65,6 +68,9 @@
 </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="40" height="40"  style="margin-right: 10px;"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
@@ -104,6 +110,21 @@
 </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" alt="IntelliJ IDEA" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=512&id=kikR2jIn6485&format=png" alt="Slack" width="40" height="40"  style="margin-right: 10px;"/>
 </a>
 </p>
 
