@@ -37,8 +37,8 @@
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
-<a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="mayuriSamanta" height="50" width="60" style="margin-right: 10px;"/></a>        
+<a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="50"  style="margin-right: 20px;"/></a>
+<a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="mayuriSamanta" height="50" width="50" style="margin-right: 20px;"/></a>        
 </p>
 
 # 💻 Tech Stack:
@@ -46,85 +46,85 @@
 [//]: # ([![My Skills]&#40;https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode&#41;]&#40;https://skillicons.dev&#41;)
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.splunk.com/content/dam/splunk-logo-dark.svg" alt="Splunk" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.splunk.com/content/dam/splunk-logo-dark.svg" alt="Splunk" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"  style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" width="50"  style="margin-right: 20px;"/>
 </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.42crunch.com/" target="_blank" rel="noreferrer">
-  <img src="https://42crunch.com/wp-content/uploads/2022/02/42C-Crest25-25.png" alt="42Crunch" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://42crunch.com/wp-content/uploads/2022/02/42C-Crest25-25.png" alt="42Crunch" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="40" height="40"  style="margin-right: 10px;"/>
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" height="50" width="50"  style="margin-right: 20px;"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="GitLab" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="GitLab" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" alt="IntelliJ IDEA" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" alt="IntelliJ IDEA" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" height="50" width="50" style="margin-right: 20px;"/>
 </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=512&id=kikR2jIn6485&format=png" alt="Slack" width="40" height="40"  style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/?size=512&id=kikR2jIn6485&format=png" alt="Slack" height="50" width="50"  style="margin-right: 20px;"/>
 </a>
 </p>
 
