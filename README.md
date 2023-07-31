@@ -39,8 +39,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
 <a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="mayuriSamanta" height="50" width="60" style="margin-right: 10px;"/></a>        
-<a href="https://fb.com/mayurisamanta10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurisamanta10" height="50" width="60" style="margin-right: 10px;"/></a>
-<a href="https://instagram.com/mayurisamanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayurisamanta" height="50" width="60" style="margin-right: 10px;"/></a>
 </p>
 
 # 💻 Tech Stack:
