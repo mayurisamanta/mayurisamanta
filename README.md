@@ -5,11 +5,11 @@
 
 <img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding girl gif">
 
-- 🔭 I’m currently a student at Masai **School, Bengaluru**
+- 🔭 I’m currently working as **Software Developer** at **LogwinTech pvt ltd, Surat**
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Angular Framework**
 
-- 👯 I’m looking to collaborate on **Interesting projects using Spring Framework**
+- 👯 I’m looking to collaborate on **Interesting projects using Angular and Spring boot**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
