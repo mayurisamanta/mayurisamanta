@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular Framework**
 
-- 👯 I’m looking to collaborate on **Interesting projects using Angular and Spring boot**
+- 👯 I’m looking to collaborate on **Interesting projects using Angular and Springboot**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
