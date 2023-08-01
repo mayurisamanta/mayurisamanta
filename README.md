@@ -126,6 +126,10 @@
 <a href="https://slack.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=kikR2jIn6485&format=png" alt="Slack" height="50" width="50"  style="margin-right: 20px;"/>
 </a>
+<a href="https://mattermost.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.mattermost.org/wp-content/uploads/2019/04/icon.svg" alt="Mattermost" width="40" height="40"/>
+</a>
+
 </p>
 
 # 📊 GitHub Stats:
