@@ -5,7 +5,7 @@
 
 <img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding girl gif">
 
-- 🔭 I’m currently working as **Software Developer** at **LogwinTech pvt ltd, Surat**
+- 🔭 I’m currently working as **Software Developer** at **[LogwinTech pvt ltd](https://logwintech.com/), Surat**
 
 - 🌱 I’m currently learning **Angular Framework**
 
