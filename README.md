@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as **Software Developer** at **[LogwinTech pvt ltd](https://logwintech.com/), Surat**
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Interesting projects using Angular and Springboot**
+- 👯 I’m looking to collaborate on **Interesting projects using React and Springboot**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
