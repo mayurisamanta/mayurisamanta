@@ -44,7 +44,14 @@
 # 💻 Tech Stack:
 
 [//]: # ([![My Skills]&#40;https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode&#41;]&#40;https://skillicons.dev&#41;)
-<p align="left"> 
+<style>
+.skills {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 10px;
+}  
+</style>
+<p align="left" class="skills"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
