@@ -5,11 +5,11 @@
 
 <img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding girl gif">
 
-- 🔭 I’m currently working as **Java Developer** at **[LogwinTech pvt ltd](https://logwintech.com/), Surat**
+- 🔭 I’m currently working as **Java Developer** at **[LogwinTech pvt ltd](https://logwintech.com/), Surat, Gujarat**
 
 - 👯 I’m looking to collaborate on **industry-level projects**
 
- <!-- Portfolio -->
+<!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
 
 <!-- Resume -->
@@ -17,11 +17,10 @@
 
 - 💬 Ask me about **Coding and Art because that's what fascinates me**
 
+<!-- Email -->
 - 📫 How to reach me **samantamayuri@gmail.com**
 
-- ⚡ Fun fact **I think I am creative**
-
-- 👯 **Love to connect with people and Know their stories**
+- 📖 Checkout my success story -> [Transformations and Triumphs: Our Impact Book (2024)](https://www.masaischool.com/success-stories) - **A collection of 101 Alumni Success Stories**
 <br>
 
 
@@ -35,7 +34,9 @@
 
 # 🌐 Socials:
 <p align="left">
+<!-- Linkedin -->
 <a href="https://linkedin.com/in/mayuri-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-samanta" height="50" width="50"  style="margin-right: 20px;"/></a>
+<!-- Quora -->
 <a href="https://www.quora.com/profile/Mayuri-Samanta-1" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="mayuriSamanta" height="50" width="50" style="margin-right: 20px;"/></a>        
 </p>
 
@@ -85,9 +86,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50" width="50" style="margin-right: 20px;"/>
-</a> 
+</a>  -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
@@ -106,9 +107,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" width="50" style="margin-right: 20px;"/>
 </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer">
+<!-- <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" height="50" width="50" style="margin-right: 20px;"/>
-</a>
+</a> -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" width="50" style="margin-right: 20px;"/>
 </a>
