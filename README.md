@@ -5,17 +5,15 @@
 
 <img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding girl gif">
 
-- 🔭 I’m currently working as **Software Developer** at **[LogwinTech pvt ltd](https://logwintech.com/), Surat**
+- 🔭 I’m currently working as **Java Developer** at **[LogwinTech pvt ltd](https://logwintech.com/), Surat**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Interesting projects using React and Springboot**
+- 👯 I’m looking to collaborate on **industry-level projects**
 
  <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://mayurisamanta.github.io/) &nbsp; 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1nPPi0dv9CtOF52kNHB4yTodO2oHTyEzU/view?usp=sharing) &nbsp; 
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1dZfIWRCHkwAkpZZfNekjrHZMBsQLBAqH/view?usp=sharing) &nbsp; 
 
 - 💬 Ask me about **Coding and Art because that's what fascinates me**
 
